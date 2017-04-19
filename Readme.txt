@@ -1,6 +1,7 @@
-Thanks for downloading this theme!
+B10530013 馬世宇
+期中作業
 
-Theme Name: Maxim
+使用模版
 Theme URL: https://bootstrapmade.com/maxim-free-onepage-bootstrap-theme/
 Author: BootstrapMade.com
 Author URL: https://bootstrapmade.com
